@@ -14,14 +14,13 @@ while intentos<numero:
     """)
     estimacion=input()
     estimacion=int(estimacion)
-    intentos=+1
+    intentos+=1
     if estimacion<numero:
         print("you're far away!")
     if estimacion>numero:
         print("you're near!")    
     if estimacion==numero:
         break
-
 if estimacion==numero:  
     intentos=str(intentos)    
-    print("Diste con el numero! en solo: " + intentos + "intentos")
+    print("You did it! in only : " + intentos + " attempts!")
