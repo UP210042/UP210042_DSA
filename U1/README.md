@@ -24,7 +24,7 @@ x = biseccion(f, 0, 1)
 print(x, f(x))
 ```
 ### Demostration:
-
+![Bis cc ecc](https://user-images.githubusercontent.com/112720084/218343973-006b4151-caf4-4466-843b-79e6865c0bba.png)
 
 # 2.- Secret number
 ```
@@ -56,7 +56,7 @@ if estimacion==numero:
     print("You did it! in only : " + intentos + " attempts!")
 ```
 ### Demostration:
-
+![Numerito](https://user-images.githubusercontent.com/112720084/218344120-ed32d89d-4e71-4e8e-a644-94037fe41781.png)
 
 # 3.- Tickets
 ```
@@ -72,7 +72,7 @@ while dinero_disponible >= costo_boleto:
 print("Boletos: ", num_boletos)
 ```
 ### Demostration:
-
+![Tickets](https://user-images.githubusercontent.com/112720084/218344183-c29d8700-5c65-4d6a-bbb1-cf0d74ea995c.png)
 
 # 4.- Bubble:
 
@@ -95,7 +95,7 @@ print(a)
 ```
 
 ### Demostration:
-
+![BUbble](https://user-images.githubusercontent.com/112720084/218344224-bc818f3c-20ed-4167-9b06-27ac884135f0.png)
 
 # 5.- Matriz No Repeat:
 
@@ -129,7 +129,7 @@ if __name__ == "__main__":
 ```
 
 ### Demostration:
-
+![Matriz](https://user-images.githubusercontent.com/112720084/218344266-b7aa7bb0-f8a2-4133-9427-d88261bd2f7a.png)
 
 # 6.- Palindromo:
 
@@ -151,3 +151,4 @@ if __name__ == "__main__":
     determinar_palindromo()
 ```
 ### Demostration:
+![Palindromo](https://user-images.githubusercontent.com/112720084/218344316-67f09bda-58ee-4290-b4cf-cf268e8ec29f.png)
