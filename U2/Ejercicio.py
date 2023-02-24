@@ -5,7 +5,7 @@ value=[]                                               # Q=(-5-*-(-6-+-2-)---12-
 p=posfix.split()
 # posfix= 1x1x1x1x/+/+/+/+/
 p= ['5','6','2','+','*','12','4','/','-']
-def p (p):
+def determinar_op_ope (p):
     if p[0] in ['+','-','*','/','^','()']:
         print("operador")             
     else:
