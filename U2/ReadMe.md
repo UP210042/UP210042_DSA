@@ -4,6 +4,7 @@
 #### our teacher told us that we needed to do a simple calculator, but he put several conditions
 #### that prove our habilities on this proyect, here's the code and some proofs about some mathematics problems
 
+[Demostraciones_Calculadora.pdf](https://github.com/UP210042/UP210042_DSA/files/10949842/Demostraciones_Calculadora.pdf)
 
 
 #### And I put the code that contains the calculator and their prototype
