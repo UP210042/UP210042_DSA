@@ -1,11 +1,11 @@
-posfix= [5, 6, 2, '+', '*', 12, 4, '/', '-']   #---->P
+posfix = input("Introduce el valor postfix: ").split()   #---->P
 stack=[]
 posfix.append(')')
 c=0
 print(posfix)
 while posfix[c] != ")":
-    if type(posfix[c])== int:
-        stack.append(posfix[c])
+    if type(posfix[c]) == int:
+        stack.append(float(posfix[c]))
     elif type(posfix[c])==str:
         b=stack.pop()
         a=stack.pop()
